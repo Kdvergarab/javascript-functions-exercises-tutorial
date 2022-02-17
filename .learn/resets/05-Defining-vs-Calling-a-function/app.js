@@ -1,10 +1,4 @@
 //Define the function called "multi" that expects 2 parameters:
-function multi (length,edge)
-{
-	return length * edge;
-}
-
-
 
 
   //don't edit anything below this line
